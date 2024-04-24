@@ -43,3 +43,16 @@ Siswa
 
 ### Use Case dari masing-masing aktor
 ![image](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/assets/145977090/12def8d3-547c-41b7-aaac-0ef4dd418e4f)
+
+### Data Kwitansi
+![WhatsApp Image 2024-04-24 at 09 57 18](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/assets/145977090/8ed3a029-d57d-44a1-8a13-865adb90994d)
+
+### Rancangan ERD
+![image (7)](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/assets/145977090/efb39525-23fc-4d74-ad98-cec2559b97cb)
+
+### Class Diagram
+![WhatsApp Image 2024-04-24 at 02 17 04](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/assets/145977090/df3d860a-af10-4df6-b902-5969bef6bcbf)
+
+### WireFrame Dan UI
+https://www.figma.com/file/ymmYBxESYuKIHQQ8AlL9hR/UTS-APBO?type=design&node-id=6%3A3&mode=design&t=QBZ3EgHLxUARn0gW-1
+
