@@ -1,5 +1,10 @@
 # Bimbingan Belajar Rumah Ke Rumah
 ## Presentasi UTS_APBO A_Kelompok 12
+### Anggota Kelompok :
+- Jati Rahmatulloh 4522210039
+- Daffa Khairi Albaihaqi 4522210070
+- Muhammad Rizal 4522210006
+
 ### Cerita Bisnis
 Pertama-tama, saya melihat bahwa banyak siswa mengalami kesulitan dalam memahami materi pelajaran di sekolah. Mereka sering kali terjebak dengan cara pengajaran yang standar dan kurang mendapat perhatian individual yang mereka butuhkan. Dengan menyediakan bimbingan belajar yang langsung dilakukan di rumah siswa, saya dapat memberikan perhatian dan bantuan yang lebih intensif sesuai dengan kebutuhan masing-masing siswa.
 
@@ -38,8 +43,8 @@ Orang Tua
 
 ![image](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/assets/145977090/d01d84ff-c6a4-4db2-bdc8-d9d581f386ba)
 
-
 Siswa
+
 
 ### Use Case dari masing-masing aktor
 ![image](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/assets/145977090/12def8d3-547c-41b7-aaac-0ef4dd418e4f)
