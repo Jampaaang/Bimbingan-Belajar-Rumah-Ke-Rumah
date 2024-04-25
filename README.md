@@ -47,7 +47,7 @@ Siswa
 
 
 ### Use Case dari masing-masing aktor
-![image](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/assets/145977090/12def8d3-547c-41b7-aaac-0ef4dd418e4f)
+![UseCase](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/assets/145977090/cb994a71-ddfe-446f-a196-948c20a4ed8c)
 
 ### Data Kwitansi
 ![WhatsApp Image 2024-04-24 at 09 57 18](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/assets/145977090/8ed3a029-d57d-44a1-8a13-865adb90994d)
