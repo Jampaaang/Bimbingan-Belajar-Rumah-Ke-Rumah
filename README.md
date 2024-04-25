@@ -50,13 +50,16 @@ Siswa
 ![UseCase](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/assets/145977090/cb994a71-ddfe-446f-a196-948c20a4ed8c)
 
 ### Data Kwitansi
+![Kwitansi](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/assets/167963529/198e0d1a-3b14-48a0-a660-5b9b8fe64aea)
 
 
 ### Rancangan ERD
 
+![Rancangan ERD](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/assets/167963529/d2070ef4-867b-4efe-8d6a-2836c1b130b1)
 
 ### Class Diagram
 
+![Class Diagram](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/assets/167963529/969c461e-910a-44d3-8f29-71eca60c3bdf)
 
 ### WireFrame Dan UI
 https://www.figma.com/file/ymmYBxESYuKIHQQ8AlL9hR/UTS-APBO?type=design&node-id=6%3A3&mode=design&t=QBZ3EgHLxUARn0gW-1
