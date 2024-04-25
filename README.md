@@ -50,10 +50,10 @@ Siswa
 ![UseCase](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/assets/145977090/cb994a71-ddfe-446f-a196-948c20a4ed8c)
 
 ### Data Kwitansi
-![WhatsApp Image 2024-04-24 at 09 57 18](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/assets/145977090/8ed3a029-d57d-44a1-8a13-865adb90994d)
+
 
 ### Rancangan ERD
-![image (7)](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/assets/145977090/efb39525-23fc-4d74-ad98-cec2559b97cb)
+
 
 ### Class Diagram
 ![WhatsApp Image 2024-04-24 at 02 17 04](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/assets/145977090/df3d860a-af10-4df6-b902-5969bef6bcbf)
