@@ -57,7 +57,7 @@ Siswa
 ### Rancangan ERD
 
 
-![Rancangan ERD](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/assets/167963529/d2070ef4-867b-4efe-8d6a-2836c1b130b1)
+![Rancangan ERD](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/blob/e2cc52fbe476c6c06b9f780b211eedc55cd46387/Picture/ERD%20UAS.png)
 
 
 ### Class Diagram
