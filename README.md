@@ -68,6 +68,7 @@ Bimbingan belajar rumah ke rumah adalah layanan pendidikan yang memberikan bantu
 
 ### Activity Diagram
 
+![Activity Diagram](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/blob/f5a1bc81a575bc9c6bca3f69fd7e4ce7e9cc4a66/Picture/Activity%20Diagram%20UAS.jpeg)
 
 ### Class Diagram
 
