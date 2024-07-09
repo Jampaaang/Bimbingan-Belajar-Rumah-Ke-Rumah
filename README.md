@@ -72,7 +72,7 @@ Bimbingan belajar rumah ke rumah adalah layanan pendidikan yang memberikan bantu
 
 ### Class Diagram
 
-![Class Diagram](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/blob/c44cdb3bbeb1bf94fd4b6deed33435be336b2686/Picture/ClassDiagramUAS.png)
+![Class Diagram](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/blob/d77d3fe8bc4aa4d50e792599e12ada6675257346/Picture/ClassDiagram%20UAS.png)
 
 ### WireFrame Dan UI
 https://www.figma.com/file/ymmYBxESYuKIHQQ8AlL9hR/UTS-APBO?type=design&node-id=6%3A3&mode=design&t=QBZ3EgHLxUARn0gW-1
