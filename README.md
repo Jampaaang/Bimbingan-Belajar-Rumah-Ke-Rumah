@@ -57,12 +57,12 @@ Siswa
 ### Rancangan ERD
 
 
-![Rancangan ERD](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/blob/e2cc52fbe476c6c06b9f780b211eedc55cd46387/Picture/ERD%20UAS.png)
+![Rancangan ERD](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/blob/322e04e28983a0cf13970ce95c23f3d372ee3d2b/Picture/ERD%20UAS.jpeg)
 
 
 ### Class Diagram
 
-![Class Diagram](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/blob/a103ce172a5cca211b7f50bf267c08f2d999e1bd/Picture/ClassDiagramUAS.png)
+![Class Diagram](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/blob/322e04e28983a0cf13970ce95c23f3d372ee3d2b/Picture/ClassDiagram%20UAS.png)
 
 ### WireFrame Dan UI
 https://www.figma.com/file/ymmYBxESYuKIHQQ8AlL9hR/UTS-APBO?type=design&node-id=6%3A3&mode=design&t=QBZ3EgHLxUARn0gW-1
