@@ -60,7 +60,7 @@ Bimbingan belajar rumah ke rumah adalah layanan pendidikan yang memberikan bantu
 
 ### Rancangan ERD
 
-![Rancangan ERD](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/assets/167963529/d2070ef4-867b-4efe-8d6a-2836c1b130b1)
+![Rancangan ERD](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/blob/4ba52a3567279308b07a11c9140345100c00bae1/Picture/ERD%20UAS.jpeg)
 
 ### Sequence Diagram
 
