@@ -62,7 +62,7 @@ Siswa
 
 ### Class Diagram
 
-![Class Diagram](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/assets/167963529/969c461e-910a-44d3-8f29-71eca60c3bdf)
+![Class Diagram](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/blob/a103ce172a5cca211b7f50bf267c08f2d999e1bd/Picture/ClassDiagramUAS.png)
 
 ### WireFrame Dan UI
 https://www.figma.com/file/ymmYBxESYuKIHQQ8AlL9hR/UTS-APBO?type=design&node-id=6%3A3&mode=design&t=QBZ3EgHLxUARn0gW-1
