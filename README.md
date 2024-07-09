@@ -55,7 +55,7 @@ Bimbingan belajar rumah ke rumah adalah layanan pendidikan yang memberikan bantu
 
 ### Use Case dari masing-masing aktor
 
-![UseCase](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/blob/2dca440955ed21b43ee8a865eac82b9412c50893/Picture/UseCase%20UAS.jpeg)
+![UseCase](https://github.com/Jampaaang/Bimbingan-Belajar-Rumah-Ke-Rumah/blob/0e696c144552fbe244018ffb9112eefdd474b672/Picture/Use%20Case%20UAS.jpeg)
 
 
 ### Rancangan ERD
